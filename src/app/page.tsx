@@ -23,7 +23,7 @@ export default function Home() {
   return (
     <main>
       <div>Hello world!</div>
-      <div>{projects}</div>
+      <div>projects</div>
     </main>
   );
 }
